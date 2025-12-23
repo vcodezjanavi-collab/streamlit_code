@@ -8,4 +8,5 @@ st.set_page_config(
 
 st.title("Hi Janavi 👋")
 st.subheader("Welcome my dear ML Interns 🚀")
+st.subheader("Learn Streamlit")
 
