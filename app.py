@@ -6,7 +6,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("Hi Janavi 👋")
+st.title("Hi Janavi")
 st.subheader("Welcome my dear DS Interns 🚀")
 st.subheader("Learn Streamlit")
 st.subheader("Python Framework")
